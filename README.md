@@ -58,3 +58,16 @@
 ## Task 4
 <img width="1160" height="874" alt="image" src="https://github.com/user-attachments/assets/7ac3da3c-06f4-45fb-aa23-1d4e92e7b8fd" />
 <img width="1126" height="803" alt="image" src="https://github.com/user-attachments/assets/2f1e0cb0-197e-4f87-9bf4-cb77d38435d7" />
+
+# 8
+## Task 1
+<img width="1157" height="797" alt="image" src="https://github.com/user-attachments/assets/47eb855c-5e72-4aec-a252-ac282b3b9f5a" />
+
+## Task 2
+<img width="1172" height="815" alt="image" src="https://github.com/user-attachments/assets/45ef5464-b018-4a00-98bd-92b4776a9832" />
+
+## Task 3
+<img width="1178" height="994" alt="image" src="https://github.com/user-attachments/assets/ce40ecb9-f454-485b-92ef-382ddf0a6d3e" />
+
+## Task 4
+<img width="1195" height="1253" alt="image" src="https://github.com/user-attachments/assets/e2c4bb47-2bbd-45f7-866f-11055843adab" />
