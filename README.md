@@ -108,3 +108,9 @@
 <img width="1189" height="793" alt="image" src="https://github.com/user-attachments/assets/0c4ca1a3-5e71-425c-aa3e-90f54394c7ac" />
 <img width="1182" height="1061" alt="image" src="https://github.com/user-attachments/assets/65b30193-300f-4be2-88c4-a71c811fb4bc" />
 
+# 12
+## Task 3
+<img width="1184" height="937" alt="image" src="https://github.com/user-attachments/assets/3bcf82eb-684b-4492-a3bf-daf3a891927f" />
+
+## Task 4
+<img width="1176" height="640" alt="image" src="https://github.com/user-attachments/assets/ad3c6565-b13c-4e46-a4e8-0a3594c14bb9" />
