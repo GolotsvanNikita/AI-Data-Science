@@ -142,3 +142,7 @@
 
 ## Task 4
 <img width="1180" height="996" alt="image" src="https://github.com/user-attachments/assets/137043b9-4606-4e4d-945c-e4085930123a" />
+
+# 15
+## Task 1
+<img width="1206" height="862" alt="image" src="https://github.com/user-attachments/assets/0020642f-4d9c-4303-8311-faaf670eea06" />
